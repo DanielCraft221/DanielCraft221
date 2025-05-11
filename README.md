@@ -13,8 +13,8 @@ Sou apaixonado por tecnologia e adoro construir experiências únicas — especi
 
 - JavaScript (Aprendendo)
 
-## 📫 Como me encontrar
+## 📫 Informações
 
-- 🎮 Discord: danielcraft221
 - 🌐 Site do SurvivusMC: https://survivusmc.com/
-- 📷 Instagram/TikTok: @danielcraft221
+- 🎮 Discord: danielcraft221
+- 📷 Instagram: @danielalcides.merlo
