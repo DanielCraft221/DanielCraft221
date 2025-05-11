@@ -5,7 +5,7 @@ Sou apaixonado por tecnologia e adoro construir experiências únicas — especi
 
 ## 🛠️ Meus Projetos
 
-- 🎮 **SurvivusMC**  
+- 🌎 **SurvivusMC**  
   Um servidor de Minecraft com modos de sobrevivência personalizados.  
   📅 Lançado em: 01 de maio de 2025
 
