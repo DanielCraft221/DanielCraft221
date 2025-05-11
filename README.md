@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá! Eu sou DanielCraft221
 
-<!--
-**DanielCraft221/DanielCraft221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu GitHub! Aqui você vai encontrar projetos relacionados a desenvolvimento, jogos e criatividade digital. Sou apaixonado por tecnologia e adoro construir experiências únicas — especialmente no mundo do Minecraft.
 
-Here are some ideas to get you started:
+## 🛠️ Meus Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 **SurvivusMC**  
+  Um servidor de Minecraft com minigames e modos de sobrevivência personalizados.  
+  📅 Lançado em: 12 de dezembro de 2024
+
+## 🚀 Tecnologias que uso
+
+- Minecraft Modding (Forge 1.12.2)
+- HTML/CSS/JavaScript
+- Java
+- Git & GitHub
+
+## 📫 Como me encontrar
+
+- 🎮 Discord: [SeuUsuário#0000]
+- 🌐 Site do SurvivusMC: [link aqui]
+- 📷 Instagram/TikTok: @danielcraft221
+
+Obrigado por visitar meu perfil! Sinta-se à vontade para explorar, contribuir ou mandar uma mensagem.
