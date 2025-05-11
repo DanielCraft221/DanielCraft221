@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou DanielCraft221
 
-Bem-vindo ao meu GitHub! Aqui você vai encontrar projetos relacionados a desenvolvimento, jogos e criatividade digital. 
+Aqui você vai encontrar projetos relacionados a desenvolvimento, jogos e criatividade digital. 
 Sou apaixonado por tecnologia e adoro construir experiências únicas — especialmente no mundo do Minecraft.
 
 ## 🛠️ Meus Projetos
