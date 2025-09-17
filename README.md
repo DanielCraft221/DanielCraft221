@@ -37,8 +37,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/DanielCraft221/DanielCraft221/output/snake.svg" alt="Snake animation" />
 
 ###
